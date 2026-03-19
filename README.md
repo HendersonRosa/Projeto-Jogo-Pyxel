@@ -1,2 +1,5 @@
 # Projeto Jogo Pyxel
-Projeto da disciplina de Algoritmos 1, desenvolvimento de um jogo 2d de ordas infinitas com sistemas de progressão de dificuldade de inimigos e power-ups. Projeto usando biblioteca pyxel
+
+Jogo feito na disciplina algoritmos 1 e desenvolvido em python usando a biblioteca pyxel.
+
+Guia para utilizar o pyxel: [Github/kitao](https://github.com/kitao/pyxel/tree/main?tab=readme-ov-file)
